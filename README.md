@@ -3,7 +3,6 @@
 
 ##  Dataset
 
-- **Source**: Pima Indians Diabetes Dataset (from Kaggle/UCI)
 - **Features**:
   - Pregnancies
   - Glucose
