@@ -49,4 +49,4 @@
 
    ```bash
    git clone https://github.com/PragnyasuSethi/Diabetes_Prediction.git
-   cd Diabetes_Prediction
+   cd DiabetesPredicti
